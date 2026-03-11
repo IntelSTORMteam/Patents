@@ -1,4 +1,5 @@
 # Patents
+
 As part of the usual work of our team, we participate in the development of mitigations for classes of issues found.  We are also
 involved in many discussions (and initiatives) to create mitigations for classes of issues in software.
 
